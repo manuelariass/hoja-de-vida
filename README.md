@@ -58,7 +58,7 @@
       <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
         <rect class="shape" height="60" width="320" />
       </svg>
-       <div class="text">Sebastian Montoya</div>
+       <div class="text">Manuel Arias</div>
     </div><br/><br/>
       <h1>Hoja de Vida</h1>
       <h2>Sebastian Montoya</h2>
@@ -83,14 +83,14 @@
         </thead>
         <tbody>
           <tr>
-            <td>2009</td>
+            <td>2006</td>
             <td>Injuv</td>
             <td>Bogotá</td>
             <td>Si</td>
           </tr>
           <tr>
-            <td>2016</td>
-            <td>Universidad de la Salle</td>
+            <td>2018</td>
+            <td>Universidad de la cun</td>
             <td>Bogotá</td>
             <td>No</td>
           </tr>
@@ -196,10 +196,10 @@
       <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
         <rect class="shape" height="60" width="320" />
       </svg>
-       <div class="text">Sebastian Montoya</div>
+       <div class="text">Manuel Arias</div>
     </div><br/><br/>
       <h1>Hoja de Vida</h1>
-      <h2>Sebastian Montoya</h2>
+      <h2>Manuel Arias</h2>
     </header>
     <section>
       <ul>
@@ -223,7 +223,7 @@
     <footer>
       <p><em>Derechos Reservados (R)</em></p>
       <ul>
-        <li><strong>Email:</strong><a href="mailto:sjmontoya@hotmail.com?subject=feedback" >sjmontoyav@hotmail.com</a></li>
+        <li><strong>Email:</strong><a href="mailto:manuelarias96@gmail.com?subject=feedback" >jose.ariass@cun.edu.co</a></li>
         <li><strong>Telefono:</strong>5555555</li>
         <li><strong>Direccion:</strong>Av. Calle Falsa 123</li>
       </ul>
@@ -294,7 +294,7 @@
        <div class="text">Sebastian Montoya</div>
     </div><br/><br/>
       <h1>Hoja de Vida</h1>
-      <h2>Sebastian Montoya</h2>
+      <h2>Manuel Arias</h2>
     </header>
     <section>
       <ul>
@@ -307,21 +307,20 @@
       <h3>Datos Personales</h3>
       <img src="img/profile.jpg" alt="Foto_Perfil" title="Foto_Perfil" width="25%" height="25%">
       <ul>
-        <li><strong>Nombre:</strong>Sebastian</li>
-        <li><strong>Apellido:</strong>Montoya</li>
-        <li><strong>Edad:</strong>25</li>
+        <li><strong>Nombre:</strong>Manuel</li>
+        <li><strong>Apellido:</strong>Arias</li>
+        <li><strong>Edad:</strong>30</li>
       </ul>
       <h3>Información de Perfil</h3>
       <ul>
         <li><strong>Perfil:</strong>Estudiante de Economía</li>
-        <li><strong>Idiomas:</strong>Ingles, Japones</li>
-      </ul>
+        </ul>
     </section>
     <footer>
       <p><em>® Derechos Reservados </em></p>
       <ul>
         <li><strong>Email:</strong><a href="mailto:sjmontoya@hotmail.com?subject=feedback" >sjmontoyav@hotmail.com</a></li>
-        <li><strong>Telefono:</strong>3213224666</li>
+        <li><strong>Telefono:</strong>3102640930</li>
         <li><strong>Direccion:</strong>Av. Calle Falsa 123</li>
       </ul>
     </footer>
