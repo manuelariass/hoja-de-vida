@@ -85,7 +85,7 @@
           <tr>
             <td>2006</td>
             <td>Injuv</td>
-            <td>Bogotá</td>
+            <td>eeuu</td>
             <td>Si</td>
           </tr>
           <tr>
@@ -319,7 +319,7 @@
     <footer>
       <p><em>® Derechos Reservados </em></p>
       <ul>
-        <li><strong>Email:</strong><a href="mailto:sjmontoya@hotmail.com?subject=feedback" >sjmontoyav@hotmail.com</a></li>
+        <li><strong>Email:</strong><a href="mailto:manuelarias96@gmail.com?subject=feedback" >sjmontoyav@hotmail.com</a></li>
         <li><strong>Telefono:</strong>3102640930</li>
         <li><strong>Direccion:</strong>Av. Calle Falsa 123</li>
       </ul>
