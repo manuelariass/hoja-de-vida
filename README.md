@@ -61,7 +61,7 @@
        <div class="text">Manuel Arias</div>
     </div><br/><br/>
       <h1>Hoja de Vida</h1>
-      <h2>Sebastian Montoya</h2>
+      <h2>Manuel Arias</h2>
     </header>
     <section>
       <ul>
